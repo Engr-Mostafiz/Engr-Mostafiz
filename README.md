@@ -15,7 +15,7 @@
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Facebook]
-
+<i class="bi bi-facebook"></i>
 [youtube]: 
 [Facebook]: https://www.facebook.com/mostafizurrahaman.kuka
 [linkedin]: https://www.linkedin.com/in/mostafizur-rahman-552ba315b/
