@@ -12,9 +12,9 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Mostafiz | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Mostafiz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Mostafiz | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][Facebook]
+[<img align="left" alt="Mostafiz | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 [Facebook]: https://www.facebook.com/mostafizurrahaman.kuka/
 [linkedin]: https://www.linkedin.com/in/mostafizur-rahman-552ba315b/
