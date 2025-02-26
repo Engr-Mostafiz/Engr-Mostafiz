@@ -18,6 +18,7 @@
 
 [Facebook]: https://www.facebook.com/mostafizurrahaman.kuka/
 [linkedin]: https://www.linkedin.com/in/mostafizur-rahman-552ba315b/
+[youtube]: https://www.youtube.com/@CyberTrend360/
 
 <!--
 **Engr-Mostafiz/Engr-Mostafiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
