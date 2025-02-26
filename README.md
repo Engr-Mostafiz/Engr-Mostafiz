@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mostafiz <br/><a href="#">Cybersecurity Analyst</a>, <a href="https://www.linkedin.com/in/mostafizur-rahman-552ba315b/">Cybersecurity Sepecialist</a>, <a href="https://www.youtube.com/@CyberTrend360">YouTuber</a></h1>
+<h1>Hi, I'm Mostafiz <br/><a href="#">Cyber Security Specialis</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
